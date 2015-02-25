@@ -1,0 +1,226 @@
+{"skills" : [
+	{
+		"title": "Programming Languages",
+		"class": "lang",
+		"order": 3,
+		"skills": [
+			{
+				"name": "Java",				
+				"level": 60				
+			},
+			{
+				"name": "PHP",				
+				"level": 80				
+			},
+			{
+				"name": "C/C++",				
+				"level": 50				
+			},
+			{
+				"name": "Javascript",				
+				"level": 70				
+			},
+			{
+				"name": "SQL",				
+				"level": 60				
+			},
+			{
+				"name": "Assembly",				
+				"level": 40				
+			},
+			{
+				"name": "HTML5/CSS3",				
+				"level": 80				
+			},
+			{
+				"name": "Ruby",				
+				"level": 40				
+			}
+			
+		]
+	},
+	{
+		"title": "Web Developer Tools/Libraries",
+		"class": "webdev",
+		"order": 3,
+		"skills": [
+			{
+				"name": "Chrome Developer Tools",				
+				"level": 80				
+			},
+			{
+				"name": "Firefox Developer Tools",				
+				"level": 70				
+			},
+			{
+				"name": "IE Developer Tools",				
+				"level": 50				
+			},
+			{
+				"name": "JQuery",				
+				"level": 60
+			},
+			{
+				"name": "Twitter Bootstrap",				
+				"level": 80				
+			},
+			{
+				"name": "Word Press",				
+				"level": 60				
+			},
+			{
+				"name": "JQuery Mobile",				
+				"level": 40				
+			},
+			{
+				"name": "CakePHP",				
+				"level": 50				
+			}, 
+			{
+				"name": "Modernizr", 
+				"level": 20
+			}, 
+			{
+				"name": "SASS", 
+				"level": 20
+			},
+			{
+				"name": "Cascade Server- CMS", 
+				"level": 75
+			},
+			{
+				"name": "Twitter API", 
+				"level": 60
+			},
+			{
+				"name": "Facebook API", 
+				"level": 40
+			}
+
+		]
+	},
+	{
+		"title": "Design & Video Production",
+		"class": "design",
+		"order": 2,
+		"skills": [
+			{
+				"name": "Adobe Photoshop CS6",				
+				"level": 80			
+			},
+			{
+				"name": "Adobe Premiere Pro CS6",				
+				"level": 80			
+			},
+			{
+				"name": "Adobe After Effects CS6",				
+				"level": 60			
+			},
+			{
+				"name": "Adobe Illustrator CS6",				
+				"level": 40			
+			},
+			{
+				"name": "Camtasia Studio",				
+				"level": 60			
+			},
+			{
+				"name": "Sony Vegas Pro",				
+				"level": 60			
+			},
+			{
+				"name": "Audacity",				
+				"level": 60			
+			},
+			{
+				"name": "Digital SLR Photography",				
+				"level": 75			
+			}
+		]
+	},
+	{
+		"title": "Office Applications",
+		"class": "office",
+		"order": 2,
+		"skills": [
+			{
+				"name": "Microsoft Word 2013",				
+				"level": 90			
+			},
+			{
+				"name": "Microsoft Excel 2013",				
+				"level": 95			
+			},
+			{
+				"name": "Microsoft Powerpoint 2013",				
+				"level": 90			
+			},
+			{
+				"name": "Microsoft Access 2013",				
+				"level": 50			
+			}
+		]
+	},
+	{
+		"title": "Operating System Familiarity",
+		"class": "os",
+		"order": 2,
+		"skills": [
+			{
+				"name": "Windows XP - 8.1",				
+				"level": 90			
+			},
+			{
+				"name": "Apple OS X",				
+				"level": 60			
+			},
+			{
+				"name": "Ubuntu",				
+				"level": 70			
+			},
+			{
+				"name": "iOS",				
+				"level": 90			
+			},
+			{
+				"name": "Android",				
+				"level": 60			
+			}
+		]
+	},
+	{
+		"title": "Miscellaneous",
+		"class": "misc",
+		"order": 99,
+		"skills": [
+			{
+				"name": "Technical support",				
+				"level": 100			
+			},
+			{
+				"name": "Apache Web Server",				
+				"level": 65			
+			},
+			{
+				"name": "Hardware",				
+				"level": 80			
+			},
+			{
+				"name": "Consumer Electronics",				
+				"level": 85			
+			},
+			{
+				"name": "Angel - Instructor",				
+				"level": 85			
+			},
+			{
+				"name": "Desire2Learn - Instructor",				
+				"level": 85			
+			},
+			{
+				"name": "Spelling",				
+				"level": 1			
+			}
+		]
+	}
+]}

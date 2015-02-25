@@ -1,0 +1,23 @@
+{"projects" : [
+	{
+		"title": "Scranton Visual Tool Kit (Java)",
+		"link" : "/downloads/FourColorProblem.zip",
+		"description": [
+			"A Greedy Algorithm is an algorithm that follows the problem solving heuristic of making the locally optimal choice at each stage with the hope of finding a global optimum. This time we do it with Threads. Write one greedy algorithm that when it is activated colors the node assigned to it as follows: First it check to see if the node has never been colored (color = 0), if so, it check the colors of its neighbors and colors the node with an available (not used by any neighbor) color. After deciding on a color, it checks it neighbors and if a neighbor is uncolors, it notifies the neighbor, or if the neighbor is the same color as the one chosen then it notifies the neighbor to recolor itself. (Description from course <a href='http://www.cs.scranton.edu/~beidler/index.cgi?incl=assignments.inc&cdir=cmps240&aidx=12'>Data Structures & Algorithms</a> Requires the Scranton Visual Toolkit in the cs2.jar file. "
+		]
+	}, 
+	{
+		"title": "Cross Platform Scorecard (PHP, Javascript, Databases, & HTML/CSS) ",
+		"link" : "/downloads/ScoreCardApplication.docx", 
+		"description": [
+			"This program is in very early development however it is a very large project. Please download the word document that describes in detail the specifics of the project. "
+		]
+	}, 
+	{
+		"title": "Simple Graphical Partitioner",
+		"link" : "/downloads/SimplePart.zip", 
+		"description": [
+			"My first program containing graphics. It is just a very basic partioning algorithm (very inefficient) but shows graphics using the Scranton Visual Toolkit (found in cs2.jar). "
+		]
+	}
+]}

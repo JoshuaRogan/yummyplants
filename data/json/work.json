@@ -1,0 +1,169 @@
+{"Jobs" : [
+	{
+		"title": "Technical Consultant",
+		"simple_title": "techcon",
+		"location": " University of Scranton, Center for Teaching and Learning Excellence",
+		"time": "Part-time", 
+		"hours_worked" : 0,
+		"city": "Scranton", 
+		"state": "Pennsylvania", 
+		"date_started": "Jan. 2012", 
+		"date_finished": "Aug. 2013", 
+		"description": "TechCons (technical consultants) support the Center for Teaching and Learning Excellence's (CTLE) work in fostering student learning, faculty enrichment, instructional design, and the use of technology. Highly skilled, technology savvy, self-driven, reliable and able to work independently as well as in a team environment. As a Techcon I created a Professional Development Project each semester focused on an emerging technology that can assist in student learning or faculty teaching. Topics were: cloud computing, screen sharing, mobile apps, and ItunesU, just to name a few. Another major aspect of working as a Techcon is developing and maintaining faculty and organizational websites. Some of these were made through a CMS while others were built from the ground up.",
+		"webpage": "http://www.scranton.edu/academics/ctle/employment/techconapplic.shtml",
+		"responsibilities": [
+			"Instruct and educate both faculty and students for pedagogical purposes",
+			"Work in both independent and group environments ", 
+			"Develop websites for faculty and campus organizations",
+			"Evaluate potential Learning Management Systems for the campus",
+			"Attend bi-weekly meetings", 
+			"Create technical documentation for faculty and students"
+		],
+		"employers": [
+			{
+				"fname": "Aileen",				
+				"lname": "McHale",				
+				"title": "Mgr. Ops/Proj- Instructional Technology",
+				"email": "aileen.mchale@scranton.edu",
+				"phone": "(570) 941-4365"
+			},
+			{
+				"fname": "Brian",				
+				"lname": "Snapp", 
+				"title": "Assoc. Director CTLE", 
+				"email": "brian.snapp@scranton.edu",
+				"phone": "(570) 941-4040"
+			},
+			{
+				"fname": "Eugeniu",				
+				"lname": "Grigorescu",
+				"title": "Director Center for Teaching/Learning Excellence", 
+				"email": "eugeniu.grigorescu@scranton.edu",
+				"phone": "(570) 941-5519"
+			}
+		]
+	},
+	
+	{
+		"title": "Residential Consultant",
+		"simple_title": "rescon",
+		"location": "Alumni Memorial Hall, Technical Support, University of Scranton",
+		"time": "Part-time", 
+		"hours_worked" : 0,
+		"city": "Scranton", 
+		"state": "Pennsylvania", 
+		"date_started": "Oct. 2011", 
+		"date_finished": "Aug. 2013", 
+		"description": "ResCons (Residential Consultants) are work-study eligible students who are selected to assist in supporting Residential Networking at the University of Scranton. They live on or off campus and troubleshoot network connectivity problems that they're fellow students.",
+		"webpage": "http://www.scranton.edu/pir/its/resnet/ResCon-Positions.shtml",
+		"responsibilities": [
+			"Have intermediate knowledge of PC's and Macintosh computers", 
+			"Strong troubleshooting and human relation skills",
+			"Ability to remediate viruses, trojans, and rootkits", 
+			"Able to deal with students technical problems including web access, wifi issues, program issues, etc. ",
+			"Worked very closely with the hardware technician and picked up many tips/tricks for diagnosing hardware issues ",
+			"Attend monthly meetings"
+		],
+		"employers": [
+			{
+				"fname": "Danielle",				
+				"lname": "Morse",				
+				"title": "Associate Director, ITS", 
+				"email": "danielle.morse@scranton.edu",
+				"phone": "(570) 941-6545"
+			},
+			{
+				"fname": "Karl",				
+				"lname": "Johns", 
+				"title": "Computer Technician Supervisor", 
+				"email": "karl.johns@scranton.edu",
+				"phone": "(570) 941-7404"
+			}
+
+		]
+	},
+	{
+		"title": "Campaign Assistant",
+		"simple_title": "campaign",
+		"location": "City of Scranton",
+		"time": "Part-time", 
+		"hours_worked" : 0, 
+		"city": "Scranton", 
+		"state": "Pennsylvania", 
+		"date_started": "2009", 
+		"date_finished": "Current", 
+		"description": "Campaign assistant for Councilman Pat Rogan's election. Handled various technical related aspects of the campaign.",
+		"webpage": "http://www.scrantonpa.gov/city_council.html",
+		"responsibilities": [
+			"Computer related tasks. Mail Merges, mass emails, creating letter heads, etc. ",
+			"Create designs for flyers, bumper stickers, pens, and misc. for campaign ",
+			"Door to door campaigning to out hand flyers and signs to supporters "
+		],
+		"employers": [
+			{
+				"fname": "Patrick",				
+				"lname": "Rogan",				
+				"title": "Scranton City Council", 
+				"email": "progan@scrantonpa.gov",
+				"phone": "(570) 906-4344"
+			}
+		]
+	},
+	{
+		"title": "Rec Sports Office Attendant",
+		"simple_title": "recsports",
+		"location": "Byron Gym & Fitness Center, University of Scranton",
+		"time": "Part-time", 
+		"hours_worked" : 0,
+		"city": "Scranton", 
+		"state": "Pennsylvania", 
+		"date_started": "Aug. 2011", 
+		"date_finished": "Jan. 2012", 
+		"description": "To assist the Recreation Staff with the operation of the Recreation Sports Office and Programs.",
+		"webpage": "http://athletics.scranton.edu/Recreational_Sports/Work_Study_Opportunities",
+		"responsibilities": [
+			"Maintain general security by checking University ID's and membership cards of everyone entering the rec. facility",
+			"Collect membership fees and applications and issue receipts", 
+			"Answer the telephone, give information, and take messages ",
+			"Distribute/collect requested open recreation equipment"
+		],
+		"employers": [
+			{
+				"fname": "Michael",				
+				"lname": "Malos",				
+				"title": "Recreation Assistant", 
+				"email": "michael.malos@scranton.edu",
+				"phone": "(570) 575-8839"
+			}
+		]
+	},
+	{
+		"title": "Intramural Official",
+		"simple_title": "official",
+		"location": "Fitzpatrick Field , University of Scranton",
+		"time": "Part-time", 
+		"hours_worked" : 0, 
+		"city": "Scranton", 
+		"state": "Pennsylvania", 
+		"date_started": "Sept. 2011", 
+		"date_finished": "Dec. 2011", 
+		"description": "To assist the full time recreation staff with the intramural programs by officiating contests.",
+		"webpage": "http://athletics.scranton.edu/Recreational_Sports/Intramurals/Intramural_Official",
+		"responsibilities": [
+			"To officiate/referee to the best of one's ability, while being fair, upholding the rules of the game, and maintaining an appropriate playing atmosphere",
+			"To work with the supervisors of the league by following policies regarding substitutes", 
+			"To uphold and enforce the policies, procedures and guidelines set by the Recreational Sports Department"
+		],
+		"employers": [
+			{
+				"fname": "Michael",				
+				"lname": "Malos",				
+				"title": "Recreation Assistant", 
+				"email": "michael.malos@scranton.edu",
+				"phone": "(570) 575-8839"
+			}
+		]
+	}
+	
+	
+]}

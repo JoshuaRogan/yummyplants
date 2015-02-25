@@ -1,0 +1,140 @@
+{"personal": 
+	{
+		"fname": "Josh",
+		"lname": "Rogan",
+		"hometown": "Scranton",
+		"home_state": "Pennsylvania",
+		"current_town": "Pittsburgh",
+		"current_state": "Pennsylvania",
+		"current_address": "340 Melwood Ave. Apt #5",
+		"current_zip": "15213",
+		"date_of_birth": "11/22/1992",
+		"brother": "Pat Rogan",
+		"father": "John Rogan",
+		"mother": "Debra Rogan", 
+		"cell_phone": "(570) 309-1185", 
+		"facebook": "JRogan92", 
+		"twitter": "@joshuarogan", 
+		"reddit": "JRogan92", 
+		"webpage": "www.joshuarogan.com", 
+		"PSN": "braves2007", 
+		"linkedIn": "http://www.linkedin.com/profile/view?id=256408698&trk=tab_pro",
+		"emails": [
+			"josh.rogan@scranton.edu", 
+			"jjjr1122@gmail.com", 
+			"aerosmith2009@comcast.net"
+		],
+		"hobbies": [
+			"Disc Golf",
+			"Poker",
+			"Programming",
+			"Hiking", 
+			"Road Trips"
+		],
+		"fav_movies": [
+			"Shawshank Redemption",
+			"Pulp Fiction",
+			"The Village",
+			"Star Wars Saga",
+			"The Matrix Triology"
+		],
+		"fav_shows": [
+			"House",
+			"Family Guy",
+			"Elementary", 
+			"X-Files"
+		],
+		"favorites": [
+			{
+				"title": "Hobbies",
+				"items": [
+					{
+						"name": "Disc Golf", 
+						"link": false	
+					},
+					{
+						"name": "Poker", 
+						"link": false	
+					},
+					{
+						"name": "Programming", 
+						"link": false	
+					},
+					{
+						"name": "Hiking", 
+						"link": false	
+					},
+					{
+						"name": "Road Trips", 
+						"link": false	
+					}, 
+					{
+						"name": "Cooking", 
+						"link": "http://pinterest.com/jrogan92/food-to-make/"
+					}
+				]
+			}, 
+			{
+				"title": "Movies",
+				"items": [
+					{
+						"name": "Shawshank Redemption", 
+						"link": false	
+					},
+					{
+						"name": "Pulp Fiction", 
+						"link": false	
+					},
+					{
+						"name": "The Village", 
+						"link": false	
+					},
+					{
+						"name": "Star Wars Saga", 
+						"link": false	
+					},
+					{
+						"name": "The Matrix Triology", 
+						"link": false	
+					}
+				]
+			}, 
+			{
+				"title": "Shows",
+				"items": [
+					{
+						"name": "House", 
+						"link": false	
+					},
+					{
+						"name": "Family Guy ", 
+						"link": false	
+					},
+					{
+						"name": "X-Files", 
+						"link": false	
+					},
+					{
+						"name": "Elementary", 
+						"link": false	
+					}
+				]
+			}
+			
+			
+		], 
+		
+		"about": [
+			"I am the son of John and Debbie Rogan and the brother of Pat Rogan. I grew up loving computers and learning everything I possibly could about them. Even if that meant breaking a few. Of course I made many mistakes along the way, from crashing many of our home computers to frying power supplies and motherboards from not reading instructions properly, but I learned many valuable lessons because of those mistakes.", 
+			"Besides loving technology and computers, I love being outside. For as long as I can remember I played baseball and grew up around great coaches and teammates. I now play a couple of sports that many people aren't familiar with, <a href='http://en.wikipedia.org/wiki/Disc_golf' target='_blank'>disc golf</a> and <a href='http://en.wikipedia.org/wiki/Ultimate_(sport)' target='_blank'>ultimate frisbee</a> especially. I love playing disc golf because I get to travel a lot around the area, go to new places, and meet some new people. The people who play disc golf are from all walks of life, unlike real golf where many people are limited due to money. Disc golf is usually free and located in beautiful parks across the country. I am heavily involved in the communities around some of the most local parks and create and manage Facebook groups to keep everyone informed.", 
+			"As for my future aspirations, I see myself running a small web developing company for startups and other small businesses. I feel that that although this may not be the most profitable business, it is usually the most fun! These types of businesses love being at the front of technology and are often the most willing to use new techniques, which is where web developing is the most fun!"
+		],
+		"home_paragraphs": [
+			"Hello, potential employer or stalker. My name is Josh Rogan, however you must have known that to get onto this webpage. I am currently attending <a href='http://www.pitt.edu/academics'> University of Pittsburgh </a> as a computer science major. I have also attended the <a href='http://www.scranton.edu/academics/index.shtml' target='_blank'> University of Scranton</a> for two years, also as a computer science student. I have made the dean's list three times and have a near 4.0 in Computer Science courses. So far, in my schooling, I have studied topics ranging from basic programming in Java, C, and machine language to advance topics of theory and algorithms. However, most of my knowledge of web developing is from private study. I play around a lot with programming languages of the web such as PHP, Ruby, and JavaScript.  Please feel free to view my skills page to get a little more information about languages and applications I am familiar with. ",
+			"At the University of Scranton I worked at the <a href='http://www.scranton.edu/academics/ctle/' target='_blank'>Center for Teaching and Learning Excellence </a> as a <a href='http://www.scranton.edu/academics/ctle/Techcons/index.shtml' target='_blank'> Technical Consultant</a>. There I assisted professors and faculty with technical problems relating to technology in the classroom. We were tasked with developing and maintaining websites for faculty and campus organizations. We developed primarily on a content management system but also developed multiple sites from scratch using PHP. I also, did a large amount of video editing using <a href='http://www.techsmith.com/camtasia.html' target='_blank'>Camtasia</a>, <a href='http://www.adobe.com/products/premiere.html' target='_blank'>Adobe Premiere Pro CS6</a>, and <a href='http://www.realnetworks.com/helix/video-encoding-with-helix-producer/' target='_blank'>Helix Producer</a>. We offered training to professors to use our learning management system (currently <a href='http://en.wikipedia.org/wiki/ANGEL_Learning' target='_blank'>Angel</a>). I also was the student representative on the committee appointed to decide what our next learning management system will be (<a href='http://www.blackboard.com/' target='_blank'>Blackboard</a>, <a href='http://www.desire2learn.com/' target='_blank'>Desire2Learn</a>, or <a href='http://www.instructure.com/' target='_blank'>Canvas</a>).We meet bi-weekly to create professional development projects. These projects are how we communicate with the campus about forms of technology that are helpful in the classroom. We operate on a yearlong basis in both individual and group settings. Some examples of the topics we covered are iTunesU, <a href='http://en.wikipedia.org/wiki/Cloud_storage' target='_blank'>Cloud Storage</a> (SkyDrive, dropbox, Icloud etc.), screen sharing software (<a href='http://join.me' target='_blank'>join.me</a>), and upcoming operating systems such as <a href='http://windows.microsoft.com/en-us/windows-8/meet' target='_blank'>Windows 8</a>.  ",
+			"I also worked at the Technology Support Center on the  <a href='http://www.scranton.edu/pir/its/resnet/index.shtml' target='_blank'> Residential Network</a> (ResNet) where I repaired and tuned-up laptops and perform other general tech support. I specialized in virus remediation: removing any types of <a href='http://www.pcmag.com/article2/0,2817,2379663,00.asp' target='_blank'>  malware, spyware, viruses, rootkits</a> ,  etc. This job has given me a high degree of experience in virtually all areas of technical support.",
+			"Please enjoy this site that I built from the ground up. I feel that it speaks for itself as an example of my web development capabilities. All data throughout the site are in <a href='http://json.org/' target='_blank'>JSON</a> files, processed server side through <a href='http://php.net' target='_blank'>PHP</a> (available to <a href='http://overapi.com/javascript/' target='_blank'>JavaScript</a> if needed), and displayed on the front end with <a href='http://www.html5rocks.com/en/' target='_blank'>HTML5/CSS3</a> helped with<a href='http://jquery.com/' target='_blank'>JQuery</a>. Because everything is in JSON format, I am easily able to produce a printable resume on one page without duplicating any data. I chose the option of JSON instead of a database like <a href='http://www.mysql.com/' target='_blank'>SQL</a> because the files don't lend themselves to a database; there just isn't enough data. I also used PHP's <a href='http://httpd.apache.org/docs/2.2/howto/htaccess.html' target='_blank'>Mod-Rewrite</a> to create links and directories through the site.  Personally, my favorite aspect of the website is the quote generator that randomly picks one of my favorite quotes."
+		]	
+	}
+}
+

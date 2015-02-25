@@ -1,0 +1,28 @@
+Yummy Plants Mobile Design by Josh Rogan 
+Started: May 2014
+
+--------------------
+Details
+--------------------
+	- Bootstrap 	v3.2.0 CDN
+	- JQuery 		v2.1.0 CDN
+	- bxslider 		v4.1.2 SELF
+
+--------------------
+Major
+--------------------
+
+	
+--------------------
+Medium
+--------------------
+
+
+--------------------
+Minor
+--------------------
+
+--------------------
+Final
+--------------------
+-Move Fonts to JS AJAX Calls or consider using a "kit"

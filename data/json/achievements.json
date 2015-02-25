@@ -1,0 +1,31 @@
+{"achievements" : [
+	{
+		"title": "Deans list",
+		"div": "<p> The University of Scranton Dean's List: A student must have a grade point average of 3.5 or better with a minimum number of credit hours to make the Dean's List. More Info:  <a href='http://www.scranton.edu/academics/cgce/academic%20support%20services/Honors%20and%20Awards.shtml' target='_blank'> Click Me </a> </p>"
+	}, 
+	{
+		"title": "Student Affairs Recognition",
+		"div": "<p> Recognition for outstanding leadership and contributions to the students and staff at the University of Scranton. More Info:  <a href='http://www.scranton.edu/studentlife/studentaffairs/index.shtml' target='_blank'> Click Me </a> </p>"
+	},
+	{
+		"title": "ACM International Collegiate Programming Contest 2012",
+		"div": "<p> Honorable mention at the Wilkes University ACM Regional contest. More Info:  <a href='http://acm.mathcs.wilkes.edu/' target='_blank'> Click Me </a> </p>"
+	}, 
+	{
+		"title": "Student Representative on Learning Mangement Working Group",
+		"div": "<p> In October, 2011 IT Development and Applications (ITDA) began working with the Center for Teaching and Learning Excellence (CTLE) to formulate a plan to establish an LMS Evaluation Working Group, with a purpose of evaluating alternatives to ANGEL and select our institution's next learning management system. More Info:  <a href='http://www.scranton.edu/pir/lms-evaluation/' target='_blank'> Click Me </a> </p>"
+	}, 
+	{
+		"title": "Neal J. Fasula Award",
+		"div": "<p> Gerrity's Supermarkets, the Fasula family and the Scranton Area Foundation are pleased to announce the 2013 Neal J. Fasula Scholarship Fund.  Neal J. Fasula was owner of Gerrity's Supermarkets for nearly 30 years.  This scholarship was created in his memory to honor his contributions to the food industry and to the employees of Gerrity's Supermarkets. More Info:  <a href='http://gerritys.com/neal-j-fasula-scholarship-fund.php' target='_blank'> Click Me </a> </p>"
+	},
+	{
+		"title": "Teammate of the Year ",
+		"div": "<p> West Scranton Baseball teammate of the year award. This award is given to a player who shows true team spirit and is always there on and off the field for their teammates. </p>"
+	},
+	{
+		"title": "Front Page of Reddit",
+		"div": "<p> Made it to the front page of the internet also known as reddit. More Info: <a href='http://www.reddit.com/r/pics/comments/trqva/is_it_b_or_e/' target='_blank's> Click Me </a> </p> "
+	}
+	
+]}

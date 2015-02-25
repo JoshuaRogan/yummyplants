@@ -1,0 +1,674 @@
+/**************************************************** Bootsrap Media Queries ****************************************************/'
+@media(max-width:767px){
+
+
+}
+@media(min-width:768px){
+	#main{
+		margin-top: 20px;
+	}
+}
+@media(min-width:992px){
+
+
+}
+@media(min-width:1200px){
+
+
+}
+
+@media (max-width: 400px) {
+
+}
+
+@media (max-width: 767px) {
+  .container, .row {
+    padding:0px;
+    margin:0;
+  }
+}
+
+/***************************************************** Bootsrap Media Queries ****************************************************/
+
+
+
+/***************************************************** General CSS ****************************************************/
+body{ 
+	background-color: #5B7F38;
+}
+
+h1, h2, h3, h4{
+	font-family: "Oswald", sans-serif; 
+}
+
+.container{ 
+	background-color: white; 
+}
+
+#side-bar ul{
+	background-color: #f2ecb7;
+}
+
+#side-bar ul li{ 
+	padding: 3%;
+	color: #333;
+}
+
+#side-bar ul li a{ 
+	color: #333;
+}
+
+#side-bar ul li:hover{ 
+	background-color: #ffa847;
+	
+}
+
+#header-category{ 
+	/*background: url("http://yummyplants.com/wp-content/themes/yp_theme/images/head_orange_strip_rec.png") no-repeat scroll 0 0 transparent;*/
+	background-color: orange; 
+	padding: 3px 0px 3px 1%;
+	font-size: 150%;
+	text-transform: uppercase;
+	font-weight: bold; 
+	margin-bottom: 0;
+}
+
+#header-category-description{
+	background-color: #f2ecb7;
+	margin-top: 0;
+	padding: 15px;
+}
+
+a{
+	color: #5B7F38;
+}
+
+a:hover{ 
+	color: #344721;
+}
+
+
+
+/***************************************************** General CSS ****************************************************/
+
+
+
+
+/***************************************************** Book Ad ****************************************************/
+#book-ad p, #book-ad h2, #book-ad h3, #book-ad a{
+	/*I don't get this font choice */
+	font-family: verdana,  sans-serif; 
+	color: #555;
+
+}
+
+#book-ad h3, #book-ad a{ 
+	font-weight: bold; 
+}
+
+#book-ad img{
+	padding:  0 10px 10px;
+}
+
+#mobile-book img{
+	margin-top: 10px;
+}
+
+/***************************************************** Book Ad ****************************************************/
+
+
+
+/***************************************************** HEADER ****************************************************/
+header #header #header-logo{
+	text-align: center;
+	max-width: 300px;
+	margin-left: auto; 
+	margin-right: auto;
+	margin-bottom: 10px;
+}
+
+
+@media(min-width:992px){ /*larger devices*/
+	header #header #header-logo{
+		text-align: center;
+		margin-top: 10px;
+		padding-left: 30px;
+	}
+}
+
+
+
+/*************** Header Icons ***************/
+header .social-icons{ 
+	padding-left: 5%;
+	padding-top: 3%;
+	margin-bottom: 0;
+}
+
+header .social-icons a{ 
+	color:#5C7F38;
+}
+
+header .social-icons .icon-text{ /*Text in the icons (Shop & Support this site)*/
+	vertical-align: text-bottom;
+	font-size: 100%;
+	font-weight: bold;
+	text-transform: uppercase;
+	padding-left: 3px;
+}
+
+header .mobile-icons{ 
+	text-align: center;
+}
+
+
+
+/*************** Header Icons ***************/
+
+/*************** Header Image ***************/
+header #header #header-image {
+	overflow: hidden;
+	height: 170px;
+
+	border-bottom-left-radius: 1000px;
+	border-left: 10px solid rgba(0, 0, 0, 0.1);
+}
+
+header #header #header-image #header-image-holder{ 
+	width: 100%;
+	background-color: red; 
+
+}
+
+header #header #header-image img{ 
+	position:absolute; 
+	display:block;
+    bottom:0;
+    right:15px; 
+}
+/*************** Header Image ***************/
+
+/*************** Header Search ***************/
+#header #desktop-search{
+	position: absolute;
+	bottom: 15px;
+	right: 40px;
+}
+
+#header #desktop-search input{ 
+	background: rgba(255, 255, 255, 0.50);
+}
+
+#header #mobile-search{
+	margin-top: 15px;
+}
+
+
+/*************** Header Search ***************/
+
+
+
+
+
+
+/*************** Navigation Heading Styling ***************/
+.navbar{
+	border-radius: 0; 
+}
+
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
+
+header nav.navbar-default{ 
+	/*background: url("http://yummyplants.com/wp-content/themes/yp_theme/images/menu_bg.png") repeat-x;*/
+	background-color: #93AD4F;
+	border: none;
+
+}
+
+
+header nav.navbar-default .navbar-nav>li>a {
+	color: #364b21;
+	text-transform: uppercase;
+	font-weight: bold;
+	/*border: 1px solid gray;*/
+}
+
+header nav.navbar-default .navbar-nav>li>a:hover {
+	color: white;
+	background-color: #364b21;
+}
+/*************** Navigation Heading Styling ***************/
+
+
+/*************** Mobile Nav Heading Styling ***************/
+#mobile-nav .bx-wrapper{ 
+	margin-bottom: 50px;
+}
+
+#mobile-nav .bx-wrapper .bx-viewport { 
+	box-shadow: none; 
+	margin: 30px 0 30px;
+}
+
+
+
+
+/*************** Mobile Nav Heading Styling ***************/
+
+/***************************************************** HEADER ****************************************************/
+
+
+/***************************************************** SLIDER ****************************************************/
+#slider{ 
+	text-align: center; 
+	margin-bottom:20px;
+}
+
+#slider h1, #slider h2, #slider li a{ 
+	padding-top: 15px;
+	font-family: "Averia Sans Libre", sans-serif;
+	color: #676666;
+}
+
+#slider h2{ 
+	padding-top: 5px;
+	text-decoration: underline;
+}
+
+
+#slider li{ 
+	background-color: #F2ECB7;
+	height: 200px;
+	padding-left: 45px;
+	padding-right: 45px;
+}
+
+#slider li#slider-welcome{
+	
+}
+
+#slider li#slider-101 {
+	text-align: left; 
+}
+
+#slider li#slider-101 h1, #slider li#slider-101 h2{
+	
+}
+
+#slider li#slider-101 img{ 
+	padding-top: 10px;
+}
+
+#slider li#slider-doctors h1{
+	font-size: 40px;
+	text-align: right; 
+}
+
+#slider li#slider-doctors h1 span{ 
+	font-size: 60px;
+	text-align: left; 
+}
+
+#slider li#slider-doctors h2{
+	text-align: left; 
+}
+
+#slider li#slider-doctors img{ 
+	width: 250px;
+	margin-left: auto; 
+	margin-right: auto;
+}
+
+#slider li#slider-forum img{
+	padding-top: 10px;
+	padding-left: 60px;
+}
+
+/*lg*/
+@media (min-width:992px) and (max-width: 1199px)  {
+	#slider li#slider-doctors h1{ 
+		font-size: 30px;
+	}
+
+	#slider li#slider-doctors h1 span{ 
+		font-size: 45px;
+		text-align: left; 
+	}
+
+}
+
+
+/*md-sm-xs*/	
+@media(max-width:992px)  {
+	#slider h1, #slider h2{ 
+		text-align: center !important; 
+		padding: 0;
+	}
+
+	#slider li h1{ 
+		font-size: 30px;
+	}
+
+	#slider li h2{ 
+		font-size: 25px;
+	}
+
+
+
+	#slider li#slider-doctors h1{ 
+		font-size: 25px;
+		text-align: center; 
+		padding-top: 5px;
+	}
+
+	#slider li#slider-doctors h1 span{ 
+		font-size: 50px;
+		font-weight: bold;
+		text-align: center; 
+		padding-top: 5px;
+	}
+
+	#slider li#slider-doctors h2 { 
+		font-size: 25px;
+		text-align: center;
+		padding-top: 5px; 
+		margin-top: 5px;
+	}
+}
+
+@media(max-width:540px)  {
+
+	#slider li#slider-welcome h1, #slider li#slider-doctors h1, #slider li#slider-101 h1, #slider li#slider-forum h1{ 
+		font-size: 22px;
+	}
+
+	#slider li#slider-welcome h2, #slider li#slider-101 h2, #slider li#slider-forum h2{ 
+		font-size: 18px;
+	}
+
+	#slider li#slider-doctors h1 span{ 
+		font-size: 22px;
+	}
+	#slider li#slider-doctors h2 { 
+		font-size: 18px;
+		padding-top: 1px; 
+		margin-top: 1px;
+	}
+}
+
+/***************************************************** SLIDER ****************************************************/
+
+
+
+/***************************************************** FOOTER ****************************************************/
+footer{ 
+	margin-top: 10px;
+	color: black;
+}
+
+footer nav ul li a{
+	color: black;
+}
+
+footer nav ul li a:hover{
+	color: black;
+	text-decoration: underline;
+}
+
+
+
+
+/***************************************************** FOOTER ****************************************************/
+
+
+/***************************************************** POSTS ****************************************************/
+/* Posts are the articles and pages in all of the standard template pages such as health, lifestyle, etc*/
+
+
+
+/***************************************************** POSTS ****************************************************/
+#other-template h1:first-of-type{ 
+	/*background: url("http://yummyplants.com/wp-content/themes/yp_theme/images/head_orange_strip_rec.png") no-repeat scroll 0 0 transparent;*/
+	background-color: orange; 
+	padding: 3px 0px 3px 1%;
+	font-size: 150%;
+	text-transform: uppercase;
+	font-weight: bold; 
+}
+
+#other-template 
+
+#posts section{ 
+	margin-top: 5%;
+	border-bottom: 1px solid gray;
+}
+
+#posts section h2{
+	font-size: 140%;
+}
+
+#posts section img{
+	padding: 15px;
+}
+
+
+
+
+
+/***************************************************** Modules Styling ****************************************************/
+
+.modules{ 
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+
+
+.modules section section  { 
+	padding-right: 10px;
+	margin-bottom: 5px;
+}
+
+/*Remove the padding on small devices*/
+@media (max-width: 767px) { 
+	.modules{ 
+		padding-left: 0;
+		padding-right: 0;
+	}
+
+	.modules section section  { 
+		padding: 0px;
+		margin-bottom: 5px;
+	}
+	.modules section section h1{
+		padding-right: 5px;
+	}
+}
+/*Remove the padding on small devices*/
+
+
+/* Module Header */
+.modules section section h1{
+	text-transform:uppercase;
+	font-size: 20px;
+	font-weight: bold;
+	background-color: orange; 
+
+	margin-top: 0px;
+	margin-bottom: 0px;
+	
+
+	padding-left: 10px;
+	padding-right: 0;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+/**Alt color schemes**/
+.modules section section h1.blue-module{ background-color: #82E8EF; }
+.modules section section h1.red-module{ background-color: #D6653B; }
+
+
+/* Module header link */ 
+.modules section section h1 a{
+	text-decoration: underline;
+	text-align: right; 
+	position: absolute;
+	right: 15px;
+	margin-top: 5px;
+	color: #515151;
+}
+
+/*Module sub header*/
+.modules section section h1+h2{
+	text-transform:uppercase;
+	font-size: 18px;
+	font-weight: bold;
+	background-color: #FFA847; 
+
+	margin: 0 30% 0 0;
+	padding: 5px 0px 5px 30px;
+}
+
+/** This is the content of each module **/
+.modules section section div { 
+	background-color: #F2ECB7;
+	margin: 0;
+	padding: 10px;
+}
+/** This is the content of each module **/
+
+
+.modules section h2{
+	font-size: 18px;
+	font-weight: bold;
+	text-align: top; 
+}
+
+.modules img{ 
+	padding: 10px 15px 15px 10px;
+}
+
+
+
+/***************************************************** Modules Styling ****************************************************/
+
+/***************************************************** Recipes Page****************************************************/
+
+#side-bar a{ 
+	padding-left: 5px; 
+}
+
+/*Recipe heading the gallery */
+#recipes h3{ 
+	font-size: 100%;
+	text-align: center; 
+	font-weight: bold; 
+	margin-top: 3%;
+}
+
+
+
+/*Rating system for recipes*/
+#recipes .rating p{
+	text-align: center; 
+
+}
+
+.rating {
+	unicode-bidi: bidi-override;
+	direction: rtl;
+	font-size: 24px;
+}
+.rating span.star {
+	font-family: FontAwesome;
+	font-weight: normal;
+	font-style: normal;
+	display: inline-block;
+}
+.rating span.star:hover {
+	cursor: pointer;
+}
+.rating span.star:before {
+	content: "\f006";
+	padding-right: 5px;
+	color: #999999;
+}
+.rating span.star:hover:before,
+.rating span.star:hover ~ span.star:before {
+	content: "\f005";
+	color: #e3cf7a;
+}
+
+
+/***************************************************** Recipes Page****************************************************/
+
+/***************************************************** Restaurants Page****************************************************/
+#resturants #search-restaurants{ 
+	padding: 20px;
+}
+
+
+/***************************************************** Restaurants Page****************************************************/
+
+
+
+
+/***************************************************** THIRD PARTY****************************************************/
+/*******************Facebook*****************/
+/*
+Make the Facebook Like box responsive (fluid width)
+https://developers.facebook.com/docs/reference/plugins/like-box/
+*/
+
+/* This element holds injected scripts inside iframes that in some cases may stretch layouts. So, we're just hiding it. */
+#fb-root {
+  display: none;
+
+}
+
+/* To fill the container and nothing else */
+.fb_iframe_widget, .fb_iframe_widget span, .fb_iframe_widget span iframe[style] {
+  width: 100% !important;
+  background-color: white;
+}
+#facebook-find-us{
+	margin-bottom: 5px;
+	margin-top: 0;
+	padding-left: 15px;
+	padding-right: 10px;
+}
+#facebook-find-us h2{
+	text-transform: uppercase;
+	font-size: 20px;
+	font-weight: bold;
+	padding-left: 10px;
+	padding-right: 0;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	background-color: #3b5998;
+	color: white;
+	margin-bottom: 0;
+	margin-top: 0;
+}
+
+@media (max-width: 767px) { 
+	#facebook-find-us{
+		padding-left: 0;
+		padding-right: 0;
+	}
+}
+/*******************Facebook*****************/
+
+
+
+/***************************************************** THIRD PARTY****************************************************/
+
+

@@ -1,0 +1,10 @@
+
+---------------------Log file for joshuarogan.com-------------------
+Created on: 		Sat, 22 Mar 2014 22:32:25 -0400
+IP Address:			67.186.29.162
+User Agent:			Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36
+Message:			Hello World
+Subject:			Hello
+Email:				josh.rogan@scranton.edu
+Successful:			true
+---------------------Log file for joshuarogan.com---------------------

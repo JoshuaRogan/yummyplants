@@ -1,0 +1,12 @@
+{
+    "name": "Yummy Plants Dev Website",
+    "authors": [
+        {
+            "name": "Josh Rogan",
+            "email": "jjjr1122@gmail.com"
+        }
+    ],
+    "require": {
+    	"facebook/php-sdk-v4" : "4.0.*"
+    }
+}

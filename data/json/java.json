@@ -1,0 +1,23 @@
+{"projects" : [
+	{
+		"title": "Scranton Visual Tool Kit (SVTK)",
+		"link" : false, 
+		"description": [
+			"Here is the description of what the program does. It just basically makes a partioner of a weak algorithm and displays using the Scranton Visual tool kit. Here is the description of what the program does. It just basically makes a partioner of a weak algorithm and displays using the Scranton Visual tool kit."
+		]
+	}, 
+	{
+		"title": "Cross Platform Scorecard",
+		"link" : false, 
+		"description": [
+			"Here is the description of what the program does. It is a cross platform mobile application.Here is the description of what the program does. What does it do? What does it do?Here is the description of what the program does"
+		]
+	}, 
+	{
+		"title": "50 State Color Problem",
+		"link" : false, 
+		"description": [
+			"Here is the description of what the program does. It is a cross platform mobile application.Here is the description of what the program does. What does it do? What does it do?Here is the description of what the program does"
+		]
+	}
+]}

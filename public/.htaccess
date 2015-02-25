@@ -1,0 +1,20 @@
+RewriteEngine On
+RewriteRule ^([^/\.]+)/?$ /index.php?page=$1 [QSA]
+
+ErrorDocument 401 /errors/401.html
+ErrorDocument 403 /errors/403.html
+ErrorDocument 404 /errors/404.php
+ErrorDocument 500 /errors/500.html
+
+AddType application/octet-stream .zip .mp3 .mp4
+
+#Gzip
+<ifmodule mod_deflate.c>
+AddOutputFilterByType DEFLATE text/text text/html text/plain text/xml text/css application/x-javascript application/javascript text/javascript
+</ifmodule>
+#End Gzip
+
+<IfModule pagespeed_module>
+    ModPagespeed off
+    #ModPagespeedEnableFilters remove_comments,move_css_to_head,rewrite_css
+</IfModule>
